@@ -12,7 +12,7 @@ Dialogflow chatbot for OLMS (Online Learning Management System)
 2. Add remote repository as origin (In short link remote repository with local one)
 
 ```
- git remote add origin 'git@github.com:Ketan2010/OLMS-Chatbot'
+ git remote add origin 'git@github.com:Ketan2010/OLMS-Chatbot.git' 
 ```
 (Following steps will required everytime for commiting) <br>
 3. Pull everything from remote repository to local one to maintain integrity.(code in remote repository will automatically merger with code of local repository)
