@@ -6,6 +6,26 @@ Dialogflow chatbot for OLMS (Online Learning Management System)
 2. Darshan Gawade
 3. Ketan Patil
 
+## Intents
+Register
+Login
+Password: how to change password
+System Requirement: Can i access on mobile, can we download? internet requirement?
+Enrollment: steps
+UNEnrollment: steps
+Timings : course start timings
+Preview: course preview
+Gift course: How to Gift course
+Coupon : how to use?
+Courses: What courses available price, link for doc
+Duration: Avg course duration
+Assessment: How long, Marks, 
+Certificate: How to get?, When we will get?, sharing 
+Payment: How to pay?, modes of pay
+Refund: Time, How much %
+Help: More help.
+Thank you: 
+
 ## Contribution Guide
 (Step 1 and 2 will need only once)
 1. initialise git repository in your project directory if not already 
