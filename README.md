@@ -1,6 +1,10 @@
 # OLMS-Chatbot
 Dialogflow chatbot for OLMS (Online Learning Management System)
 
+## Colaborators
+1. Luv Dabade
+2. Darshan Gawade
+3. Ketan Patil
 
 ## Contribution Guide
 (Step 1 and 2 will need only once)
