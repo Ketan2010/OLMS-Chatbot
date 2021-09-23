@@ -45,6 +45,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body>
     
@@ -54,7 +55,11 @@
             <img src="img/main.png"/>
         </div>
         <h1 style="font-size: 50px; font-family: 'Roboto Mono', monospace;">OLMS Chatbot</h1>
-        <h1 style="font-size: 20px; font-family: 'Roboto Mono', monospace;">Online Learning Management System</h1>
+        <h1 style="font-size: 30px; font-family: 'Roboto Mono', monospace;">Online Learning Management System</h1>
+        <button type="button" class="btn btn-outline-primary">Coursera</button>
+        <button type="button" class="btn btn-outline-danger">Udemy</button>
+        <button type="button" class="btn btn-outline-info">Udacity</button>
+        <button type="button" class="btn btn-outline-dark">Edx</button>
     </div>
     <!-- This is the main code for chatbot  -->
     <!-- we can add more fields, refer: https://cloud.google.com/dialogflow/es/docs/integrations/dialogflow-messenger -->
