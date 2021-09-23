@@ -7,24 +7,24 @@ Dialogflow chatbot for OLMS (Online Learning Management System)
 3. Ketan Patil
 
 ## Intents
-Register
-Login
-Password: how to change password
-System Requirement: Can i access on mobile, can we download? internet requirement?
-Enrollment: steps
-UNEnrollment: steps
-Timings : course start timings
-Preview: course preview
-Gift course: How to Gift course
-Coupon : how to use?
-Courses: What courses available price, link for doc
-Duration: Avg course duration
-Assessment: How long, Marks, 
-Certificate: How to get?, When we will get?, sharing 
-Payment: How to pay?, modes of pay
-Refund: Time, How much %
-Help: More help.
-Thank you: 
+1. Register
+2. Login
+3. Password: how to change password
+4. System Requirement: Can i access on mobile, can we download? internet requirement?
+5. Enrollment: steps
+6. UNEnrollment: steps
+7. Timings : course start timings
+8. Preview: course preview
+9. Gift course: How to Gift course
+10. Coupon : how to use?
+11. Courses: What courses available price, link for doc
+12. Duration: Avg course duration
+13. Assessment: How long, Marks, 
+14. Certificate: How to get?, When we will get?, sharing 
+15. Payment: How to pay?, modes of pay
+16. Refund: Time, How much %
+17. Help: More help.
+18. Thank you: 
 
 ## Contribution Guide
 (Step 1 and 2 will need only once)
