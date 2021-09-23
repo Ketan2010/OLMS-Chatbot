@@ -1,6 +1,7 @@
 <html>
 <head>
     <meta name="viewport" content="width-device-width, initial-scale=1">
+    <title>OLMS-ChatBot</title>
     <!-- dialogflow style bootsrap -->
     <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
     <style>
@@ -46,12 +47,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap" rel="stylesheet">
 </head>
 <body>
+    
     <!-- center text in webpage -->
     <div class="text-center">
         <div>
             <img src="img/main.png"/>
         </div>
         <h1 style="font-size: 50px; font-family: 'Roboto Mono', monospace;">OLMS Chatbot</h1>
+        <h1 style="font-size: 20px; font-family: 'Roboto Mono', monospace;">Online Learning Management System</h1>
     </div>
     <!-- This is the main code for chatbot  -->
     <!-- we can add more fields, refer: https://cloud.google.com/dialogflow/es/docs/integrations/dialogflow-messenger -->
