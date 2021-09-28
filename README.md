@@ -3,7 +3,7 @@ Dialogflow chatbot for OLMS (Online Learning Management System)
 
 ## [Try it out](https://olms-chatbot.herokuapp.com/)
 
-## Colaborators
+## Contributors
 1. Luv Dabade
 2. Darshan Gawade
 3. Ketan Patil
