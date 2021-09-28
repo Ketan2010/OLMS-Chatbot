@@ -1,8 +1,7 @@
 # OLMS-Chatbot
 Dialogflow chatbot for OLMS (Online Learning Management System)
 
-## Try it out:
-[here](https://olms-chatbot.herokuapp.com/)
+## [Try it out](https://olms-chatbot.herokuapp.com/)
 
 ## Colaborators
 1. Luv Dabade
